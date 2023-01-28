@@ -1,3 +1,8 @@
+library(dplyr)
+library(stringr)
+library(tidyr)
+
+
 prod_commune <- read.csv2("production-electrique-par-filiere-a-la-maille-commune.csv")
 prod_region <- read.csv2("production-electrique-par-filiere-a-la-maille-region.csv")
 prod_departement <- read.csv2("production-electrique-par-filiere-a-la-maille-departement.csv")
