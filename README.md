@@ -1,6 +1,6 @@
 # Bilanconso
 
-Lien pour télécharger les jeux de données en CSV !!!, et lancer l'app.R qui se trouve dans le dossier Bilan conso:
+Lien pour télécharger les jeux de données en CSV !!! Lancer ensuite le cleandata qui va vous donner les jeux de données tout propre puis lancer l'app.R qui se trouve dans le dossier Bilan conso :
 
 Production:
 
